@@ -96,7 +96,7 @@ def mapa(df1):
 #-----------------------
 #importando o arquivo
 #---------------------
-df = pd.read_csv('dataset\zomato.csv')
+df = pd.read_csv('dataset/zomato.csv')
 
 #-----------------------
 #limpando os dados

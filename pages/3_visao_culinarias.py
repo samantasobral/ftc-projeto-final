@@ -89,7 +89,7 @@ def top_cuisines(df1, asc):
 #-----------------------
 #importando o arquivo
 #---------------------
-df = pd.read_csv('dataset\zomato.csv')
+df = pd.read_csv('dataset/zomato.csv')
 
 #-----------------------
 #limpando os dados

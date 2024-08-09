@@ -47,7 +47,7 @@ o brasileiro e o árabe.
 # 5. O produto final do projeto
 Painel online, hospedado em um cloud e disponível para acesso em qualquer dispositovo conectado à internet.
 
-O painel pode ser acessado através do link: https://samantasobral-ftc-projeto-final-home.streamlit.app/
+O painel pode ser acessado através do link: https://samantasobral-ftc-projeto.streamlit.app/
 
 # 6. Conclusão
 O objetivo deste projeto é criar um conjunto de gráficos e tabelas que exibam as métricas da melhor forma possível
